@@ -1,3 +1,5 @@
+[BareMetalIot - id2895](https://github.com/BareMetalIoT/FreeMDU/commit/720315288949642a560f8d90a821c48f158f9770)
+
 Az **`Error: UnknownSoftwareId(1494)`** azt jelenti, hogy a FreeMDU protocol crate-ben még **nincs regisztrálva** a 1494-es Software ID, ezért a `dump_memory` (és a többi high-level eszköz) nem tudja kezelni.
 
 ### Mit kell tenned?
