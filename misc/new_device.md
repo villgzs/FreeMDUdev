@@ -1,5 +1,49 @@
 [BareMetalIot - id2895](https://github.com/BareMetalIoT/FreeMDU/commit/720315288949642a560f8d90a821c48f158f9770)
 
+[Felix - add-id324](https://github.com/felix-albrecht/FreeMDU/commit/6753896fa412eac4baf9c48f17c1f83213e96066)
+
+[Felix - ADD keys for ID 266](https://github.com/felix-albrecht/FreeMDU/commit/9941e4a0c68b7719503f7c990cf8203ad0406d6f)
+
+[Add keys for ID 517 to find_keys.rs](https://github.com/felix-albrecht/FreeMDU/commit/914b24a4ff78f942b12607d8ca71130327148e1e)
+
+[Merge branch 'medusalix:master' into protocol-features](https://github.com/felix-albrecht/FreeMDU/commit/e991c97d0872d965c613112f8d62523b18f417ce)
+
+[id2088: Add initial support](https://github.com/felix-albrecht/FreeMDU/commit/f00e2ecb76e29f2f201e238c27b3c6aa8a4f91db)
+
+[JALR - monkey patch to make ID 472 work](https://github.com/jalr/FreeMDU/commit/96d5eb84434d409e5c55af7949259de873378a45)
+
+[Add support for ID 472](https://github.com/jalr/FreeMDU/commit/64c3368bdc0018453013d6ff621d35ff1df6fad2)
+
+[id419: Add tachometer speed property](https://github.com/jalr/FreeMDU/commit/fcd49bc2ae797516d3d58e6d421850fff6e4a7c8)
+
+[id324: Add initial support](https://github.com/jalr/FreeMDU/commit/c66dc121132b8952d7e7f53b3d4d60155806ec76)
+
+LK-EK 
+
+[t4223c-readonly](https://github.com/lk-ek/FreeMDU/tree/t4223c-readonly)
+
+[t4223c-dryer](https://github.com/lk-ek/FreeMDU/tree/t4223c-dryer)
+
+[schematic-pcb](https://github.com/lk-ek/FreeMDU/tree/schematic-pcb)
+
+[accelerometer-and-w307](https://github.com/lk-ek/FreeMDU/tree/accelerometer-and-w307)
+
+[accelerometer-and-w307](https://github.com/lk-ek/FreeMDU/tree/accelerometer-and-w307)
+
+[id410-support](https://github.com/lk-ek/FreeMDU/tree/id410-support)
+
+[protocol: add read-only support for Miele W307 (ID410)](https://github.com/lk-ek/FreeMDU/commit/217b43e47a5cb266226acf01bec1c9ade7429395)
+
+[feat: add read-only ID498 dryer support with validated state mappings](https://github.com/lk-ek/FreeMDU/commit/c45ad90f8f8d6d38ce76cdb3d220aa03df0524b8)
+
+mauritsvdvijgh
+
+[llm wip add id2465 with a few properties](https://github.com/mauritsvdvijgh/FreeMDU/commit/08cdf7bf4802bc90377144366f65af529cd9494c)
+
+
+
+
+
 Az **`Error: UnknownSoftwareId(1494)`** azt jelenti, hogy a FreeMDU protocol crate-ben még **nincs regisztrálva** a 1494-es Software ID, ezért a `dump_memory` (és a többi high-level eszköz) nem tudja kezelni.
 
 ### Mit kell tenned?
